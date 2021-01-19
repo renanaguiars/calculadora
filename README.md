@@ -1,2 +1,2 @@
 # calculadora
-Criação de uma calculadora em Javascript
+Criação de uma calculadora
